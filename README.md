@@ -21,3 +21,4 @@ As i was (and still am) learning to code, i have made (and sometimes straight up
 	12. Sum of cubes is equal to sum of naturals squared (Sum($n^3$) = (Sum(n))$^2$)
 	13. Computing the probability that a list is a *Chaotic Permutation* (one which an elements value is not the same as its index in the list)
 	14. A [Random Walk](https://en.wikipedia.org/wiki/Random_walk) visualizer. Shows the steps of the random walker, and then tells you its final position
+	15. A code to compute as many terms as you'd like of the [Look and Say sequence](https://en.wikipedia.org/wiki/Look-and-say_sequence), with whichever seed you want. I'm pretty sure theres lots of optimization i could do to this code, but right now i am happy it works

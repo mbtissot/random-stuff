@@ -11,7 +11,6 @@ def sieve(nat):
 	yield from sieve(i for i in nat if i%n!=0)
 
 p = sieve(naturals(2))
-
 for i in range(100):
 	primes.append(next(p))
 print(primes)
